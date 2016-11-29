@@ -1,1 +1,2 @@
-Hi I'm dhs-biyu in Github. # hello-world
+Hi I'm dhs-biyu in Github. 
+Hello Sugar Labs. # hello-world
